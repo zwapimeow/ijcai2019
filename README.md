@@ -28,5 +28,4 @@ Comparison between SSCOMP&oursSSCOMP or SSCROMP&oursSSCROMP can help researchers
 
 Run run_EYALEB and run_usps to get results.
 
-<@:D
-是不是傻吊
+:)
